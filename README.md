@@ -10,21 +10,21 @@ Table des matières
 I - Problématique 
 
 II - Analyse de la base de données 
-Chiffre d’Affaire (CA) mensuel 
-Visualisation des variations mensuelles du Chiffre d'Affaires 
-Représentation du taux de croissance sur une base mensuelle 
-Nombre de clients actifs mensuels 
-Nombre de commande mensuelle Chiffre d'Affaires moyen par commande
-Chiffre d'Affaires mensuel des catégories Nouveaux et Anciens clients 
-Représentation graphique des ratios Nouveaux clients et Ancients clients 
-Examinons le pourcentage de nouveaux clients enregistrés par mois 
-Taux mensuel de rétention de clients 
+- Chiffre d’Affaire (CA) mensuel 
+- Visualisation des variations mensuelles du Chiffre d'Affaires 
+- Représentation du taux de croissance sur une base mensuelle 
+- Nombre de clients actifs mensuels 
+- Nombre de commande mensuelle Chiffre d'Affaires moyen par commande
+- Chiffre d'Affaires mensuel des catégories Nouveaux et Anciens clients 
+- Représentation graphique des ratios Nouveaux clients et Ancients clients 
+- Examinons le pourcentage de nouveaux clients enregistrés par mois 
+- Taux mensuel de rétention de clients 
 
 III - Segmentation de la clientèle 
-Calcul de la récence (R) 
-Frequence (F) 
-Classification des clients selon la fréquence (F) 
-Valeur monétaire (M) 
-Le Scoring RFM 
+- Calcul de la récence (R) 
+- Frequence (F) 
+- Classification des clients selon la fréquence (F) 
+- Valeur monétaire (M) 
+- Le Scoring RFM 
 
 IV - Conclusion et recommandation
