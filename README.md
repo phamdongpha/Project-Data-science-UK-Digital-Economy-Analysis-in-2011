@@ -6,6 +6,7 @@ Dans ce travail, nous chercherons à extraire des informations économiques des 
 
 
 Table des matières 
+
 I - Problématique 
 
 II - Analyse de la base de données 
