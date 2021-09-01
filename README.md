@@ -1,4 +1,4 @@
-# Project Python : UK-Digital Economy Analysis in 2011
+# Project Data science : UK-Digital Economy Analysis in 2011
 
 Written in french by PHAM Dong Pha and June Camille
 
